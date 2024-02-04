@@ -1,0 +1,22 @@
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.AssemblyReference.cache
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.SuggestedBindingRedirects.cache
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.Properties.Resources.resources
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.GenerateResource.cache
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.CoreCompileInputs.cache
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\bin\Debug\MyDataBase.exe.config
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\bin\Debug\MyDataBase.exe
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\bin\Debug\MyDataBase.pdb
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.exe
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.pdb
+H:\NetFolder\Учеба\3 семестр\Базы данных\Database Application\MyDataBase\MyDataBase\obj\Debug\MyDataBase.Form1.resources
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\bin\Debug\MyDataBase.exe.config
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\bin\Debug\MyDataBase.exe
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\bin\Debug\MyDataBase.pdb
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.Properties.Resources.resources
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.GenerateResource.cache
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.exe
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.pdb
+C:\Users\Vladislav\Downloads\MyDataBase\MyDataBase\obj\Debug\MyDataBase.ComboBoxItem.resources
